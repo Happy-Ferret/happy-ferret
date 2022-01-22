@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 😺
+
+[![Happy-Ferret's GitHub stats](https://github-readme-stats.vercel.app/api?username=happy-ferret&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
+
+🔭 I’m currently working on [😻@PuddingBot😻](https://github.com/Happy-Ferret/pudding-bot), my modern Telegram group management bot with super powers.
 
 <!--
 **Happy-Ferret/happy-ferret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
