@@ -4,6 +4,9 @@
 
 [![Happy-Ferret's GitHub stats](https://github-readme-stats.vercel.app/api?username=happy-ferret&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=happy-ferret)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 🔭 I’m currently working on [😻@PuddingBot😻](https://github.com/Happy-Ferret/pudding-bot), my modern Telegram group management bot with super powers.
 
 __📌 Pinned repositories:__
