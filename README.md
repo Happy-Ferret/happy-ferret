@@ -4,6 +4,10 @@
 
 🔭 I’m currently working on [😻@PuddingBot😻](https://github.com/Happy-Ferret/pudding-bot), my modern Telegram group management bot with super powers.
 
+__📌 Pinned repositories:__
+
+[![Pin_Card](https://github-readme-stats.vercel.app/api/pin/?username=PuddingBot&repo=pudding-bot&show_owner=true)](https://github.com/PuddingBot/pudding-bot)
+
 <!--
 **Happy-Ferret/happy-ferret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
