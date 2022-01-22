@@ -1,6 +1,7 @@
 ### Hi there 😺
 
 [![wakatime](https://wakatime.com/badge/user/8c443f98-5766-4f1d-bd5c-37cd0a0d00af.svg)](https://wakatime.com/@8c443f98-5766-4f1d-bd5c-37cd0a0d00af "Total time coded since January 22, 2022")
+![Profile views](https://gpvc.arturio.dev/happy-ferret)
 
 [![Happy-Ferret's GitHub stats](https://github-readme-stats.vercel.app/api?username=happy-ferret&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
