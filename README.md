@@ -4,7 +4,7 @@
 ![Profile views](https://gpvc.arturio.dev/happy-ferret)
 
 [![Happy-Ferret's GitHub stats](https://github-readme-stats.vercel.app/api?username=happy-ferret&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
+![Profile Stats](https://github-readme-streak-stats.herokuapp.com/?user=happy-ferret)
 [![trophy](https://github-profile-trophy.vercel.app/?username=happy-ferret)](https://github.com/ryo-ma/github-profile-trophy)
 
 
