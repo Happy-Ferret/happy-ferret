@@ -12,6 +12,7 @@
 
 __📔 Latest blog posts:__
 <!-- BLOG-POST-LIST:START -->
+- [Coming Soon](https://PuddingBot.github.io/blog/coming-soon)
 <!-- BLOG-POST-LIST:END -->
 
 __📌 Pinned repositories:__
