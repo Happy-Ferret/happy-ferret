@@ -10,6 +10,10 @@
 
 🔭 I’m currently working on [😻@PuddingBot😻](https://github.com/Happy-Ferret/pudding-bot), my modern Telegram group management bot with super powers.
 
+__📔 Latest blog posts:__
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 __📌 Pinned repositories:__
 
 [![Pin_Card](https://github-readme-stats.vercel.app/api/pin/?username=PuddingBot&repo=pudding-bot&show_owner=true)](https://github.com/PuddingBot/pudding-bot)
