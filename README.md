@@ -13,6 +13,7 @@
 
 __📔 Latest blog posts:__
 <!-- BLOG-POST-LIST:START -->
+- [Cerberus Considered Harmful](https://PuddingBot.github.io/blog/why-not-cerberus)
 - [Coming Soon](https://PuddingBot.github.io/blog/coming-soon)
 <!-- BLOG-POST-LIST:END -->
 
